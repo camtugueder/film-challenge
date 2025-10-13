@@ -15,18 +15,18 @@ A full-stack movie search application built with Next.js and NestJS, allowing us
 
 ## Features
 
-✅ **Search Movies**: Search for movies by title with pagination support
-✅ **Manage Favorites**: Add and remove movies from your favorites list
-✅ **Persistent Storage**: Favorites stored in SQLite with TypeORM migrations
-✅ **Responsive Design**: Mobile-first, responsive UI built with Tailwind CSS
-✅ **Optimistic Updates**: Instant UI feedback using TanStack Query
-✅ **Smart Image Handling**: Fallback placeholders for broken or missing movie posters
-✅ **Enhanced Search UX**: Clear button resets search state to initial view
-✅ **Comprehensive Testing**: 70%+ test coverage with unit and integration tests
-✅ **Type Safety**: Full TypeScript strict mode across frontend and backend
-✅ **API Documentation**: Interactive Swagger/OpenAPI documentation
-✅ **Error Monitoring**: Sentry integration for production error tracking
-✅ **Production Ready**: Proper CORS, timeouts, retry logic, and migrations
+- ✅ **Search Movies**: Search for movies by title with pagination support
+- ✅ **Manage Favorites**: Add and remove movies from your favorites list
+- ✅ **Persistent Storage**: Favorites stored in SQLite with TypeORM migrations
+- ✅ **Responsive Design**: Mobile-first, responsive UI built with Tailwind CSS
+- ✅ **Optimistic Updates**: Instant UI feedback using TanStack Query
+- ✅ **Smart Image Handling**: Fallback placeholders for broken or missing movie posters
+- ✅ **Enhanced Search UX**: Clear button resets search state to initial view
+- ✅ **Comprehensive Testing**: 70%+ test coverage with unit and integration tests
+- ✅ **Type Safety**: Full TypeScript strict mode across frontend and backend
+- ✅ **API Documentation**: Interactive Swagger/OpenAPI documentation
+- ✅ **Error Monitoring**: Sentry integration for production error tracking
+- ✅ **Production Ready**: Proper CORS, timeouts, retry logic, and migrations
 
 ## Tech Stack
 
